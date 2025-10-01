@@ -1,9 +1,27 @@
 # ACCORD
-![accord-removebg.png](./docs/accord-removebg.png)
+<img width="485" height="187" alt="accord-png" src="https://github.com/user-attachments/assets/51cc2440-6796-4c5e-bf13-7e64b89faaa5" />
+
 
 ### 개발자들을 위한 온라인 협업툴!
 ##### 피그마/디스코드/노션 따로사용하세요?
 ##### ACCORD 하나로 협업해요!
+
+
+---
+### 리포지터리 링크
+
+* **소개 링크 :** https://github.com/yoda-yoda/Project4_accord-overview
+* **backend (spring) :** https://github.com/yoda-yoda/Project4_accord-backend
+* **frontend (react) :** https://github.com/yoda-yoda/Project4_accord-frontend
+* **api-gateway :** https://github.com/yoda-yoda/Project4_accord-api-gateway
+* **go-backend :** https://github.com/yoda-yoda/Project4_accord-go-backend
+* **signaling server :** https://github.com/yoda-yoda/Project4_accord-signaling-server
+* **turn server :** https://github.com/yoda-yoda/Project4_accord-turn-server
+* **stun server :** https://github.com/yoda-yoda/Project4_accord-stun-server 
+
+
+---
+
 
 # 목차
 1. [팀원 소개 및 역할](#팀원-소개-및-역할)
@@ -144,7 +162,8 @@ https://accord.my/
   API 명세서 Swagger ver.
 </summary>
   
-  ![accordswagger.png](./docs/accordswagger.png)
+<img width="1304" height="4015" alt="accordswagger" src="https://github.com/user-attachments/assets/7173bfe9-f4e0-46d1-ace8-360e8976d0d9" />
+
   
 </details>
 
@@ -368,12 +387,13 @@ https://accord.my/
 <br>
 
 # 아키텍쳐
-![Web App Reference Architecture (3)](https://github.com/user-attachments/assets/6cf6d24c-2669-40b2-b91e-fe28b1928493)
+<img width="833" height="782" alt="architecture" src="https://github.com/user-attachments/assets/0dbaf6bd-39dd-4ba8-a9a5-77c1dcebf875" />
 
 
 # 플로우차트
-![flow.png](./docs/flow.png)
+<img width="1396" height="1045" alt="flow" src="https://github.com/user-attachments/assets/8cb7a1a1-d02d-4358-86e5-da820ea9f6cd" />
 
 # ERD
-![erd.png](./docs/erd.png)
-![mongodb.png](./docs/mongodb.png)
+<img width="2052" height="769" alt="erd" src="https://github.com/user-attachments/assets/b6e1e9e2-d85e-4ea3-b819-fda5e0404fd8" />
+<img width="528" height="478" alt="mongodb" src="https://github.com/user-attachments/assets/e860c072-c9a5-4aee-9bc6-cc250a50a514" />
+
